@@ -1,0 +1,6 @@
+[submodule "rise-encoding"]
+	path = rise-encoding
+	url = https://gitlab.pavlovia.org/crisp/rise-encoding
+[submodule "rise-recognition"]
+	path = rise-recognition
+	url = https://gitlab.pavlovia.org/crisp/rise-encoding
